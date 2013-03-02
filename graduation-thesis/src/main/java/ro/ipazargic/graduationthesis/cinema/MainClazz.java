@@ -11,7 +11,7 @@ public class MainClazz {
     }
     
     public void print() {
-        System.out.println("From jtonic.");
+        System.out.println("From jtonic 1.");
         System.out.println("Irina");
         System.out.println("Hello java world!!!");
     }
