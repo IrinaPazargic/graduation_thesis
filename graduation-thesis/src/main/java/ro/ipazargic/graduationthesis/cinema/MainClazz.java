@@ -11,10 +11,7 @@ public class MainClazz {
     }
     
     public void print() {
-        System.out.println("From jtonic 1.");
-        System.out.println("From Idea IntelliJ");
-        System.out.println("Irina 2");
-        System.out.println("Hello java world!!!");
+        System.out.println("Hello java and github world!!!");
     }
     
 }
