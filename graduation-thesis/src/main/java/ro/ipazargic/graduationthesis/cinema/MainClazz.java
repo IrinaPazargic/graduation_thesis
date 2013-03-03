@@ -12,7 +12,7 @@ public class MainClazz {
     
     public void print() {
         System.out.println("From jtonic 1.");
-        System.out.println("Irina 1");
+        System.out.println("Irina 2");
         System.out.println("Hello java world!!!");
     }
     
