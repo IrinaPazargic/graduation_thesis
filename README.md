@@ -1,7 +1,6 @@
-graduation_thesis
+Irina's graduation thesis 
 =================
 
-Irina's graduation thesis 
 
 Steps:
 
